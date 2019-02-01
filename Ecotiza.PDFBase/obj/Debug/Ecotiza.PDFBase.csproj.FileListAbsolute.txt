@@ -1,0 +1,323 @@
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\Ecotiza.PDFBase.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\Ecotiza.PDFBase.pdb
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.Docs.v18.1.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.Pdf.v18.1.Drawing.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\FluentValidation.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\Jil.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\Sigil.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\System.ValueTuple.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\System.Web.Http.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.Snap.v18.1.Core.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.Spreadsheet.v18.1.Core.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.DataAccess.v18.1.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.XtraCharts.v18.1.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.Charts.v18.1.Core.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.Office.v18.1.Core.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.Images.v18.1.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.Xpo.v18.1.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.CodeParser.v18.1.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.Docs.v18.1.xml
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.Pdf.v18.1.Drawing.xml
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\FluentValidation.xml
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\Jil.xml
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\Sigil.xml
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\System.ValueTuple.xml
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\System.Web.Http.xml
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.Snap.v18.1.Core.xml
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.Spreadsheet.v18.1.Core.xml
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.DataAccess.v18.1.xml
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.XtraCharts.v18.1.xml
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.Office.v18.1.Core.xml
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.Xpo.v18.1.xml
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\de\DevExpress.Snap.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\es\DevExpress.Snap.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\ja\DevExpress.Snap.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\ru\DevExpress.Snap.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\de\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\es\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\ja\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\ru\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\de\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\es\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\ja\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\ru\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\de\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\es\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\ja\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\ru\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\de\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\es\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\ja\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\bin\Debug\ru\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\obj\Debug\Ecotiza.PDFBase.csproj.CoreCompileInputs.cache
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\obj\Debug\Ecotiza.PDFBase.csproj.CopyComplete
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\obj\Debug\Ecotiza.PDFBase.dll
+C:\Users\Israel Santamaria\source\repos\WebApplication1\Ecotiza.PDFBase\obj\Debug\Ecotiza.PDFBase.pdb
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\obj\Debug\Ecotiza.PDFBase.csproj.CoreCompileInputs.cache
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\obj\Debug\Ecotiza.PDFBase.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\obj\Debug\Ecotiza.PDFBase.pdb
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\Ecotiza.PDFBase.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\Ecotiza.PDFBase.pdb
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.Docs.v18.1.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.Pdf.v18.1.Drawing.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\FluentValidation.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\Jil.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\Sigil.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\System.ValueTuple.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\System.Web.Http.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.Snap.v18.1.Core.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.Spreadsheet.v18.1.Core.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.DataAccess.v18.1.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.XtraCharts.v18.1.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.Charts.v18.1.Core.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.Office.v18.1.Core.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.Images.v18.1.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.Xpo.v18.1.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.CodeParser.v18.1.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.Docs.v18.1.xml
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.Pdf.v18.1.Drawing.xml
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\FluentValidation.xml
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\Jil.xml
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\Sigil.xml
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\System.ValueTuple.xml
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\System.Web.Http.xml
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.Snap.v18.1.Core.xml
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.Spreadsheet.v18.1.Core.xml
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.DataAccess.v18.1.xml
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.XtraCharts.v18.1.xml
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.Office.v18.1.Core.xml
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\DevExpress.Xpo.v18.1.xml
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\de\DevExpress.Snap.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\es\DevExpress.Snap.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\ja\DevExpress.Snap.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\ru\DevExpress.Snap.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\de\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\es\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\ja\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\ru\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\de\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\es\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\ja\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\ru\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\de\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\es\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\ja\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\ru\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\de\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\es\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\ja\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\bin\Debug\ru\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Israel Santamaria\Desktop\WebApplication1\WebApplication1\Ecotiza.PDFBase\obj\Debug\Ecotiza.PDFBase.csproj.CopyComplete
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\Ecotiza.PDFBase.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\Ecotiza.PDFBase.pdb
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\FluentValidation.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\Jil.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\Sigil.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\System.ValueTuple.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\System.Web.Http.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\Newtonsoft.Json.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\FluentValidation.xml
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\Jil.xml
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\Sigil.xml
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\System.ValueTuple.xml
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\System.Web.Http.xml
+C:\Home\TestPDF\Ecotiza.PDFBase\obj\Debug\Ecotiza.PDFBase.csproj.CoreCompileInputs.cache
+C:\Home\TestPDF\Ecotiza.PDFBase\obj\Debug\Ecotiza.PDFBase.csproj.CopyComplete
+C:\Home\TestPDF\Ecotiza.PDFBase\obj\Debug\Ecotiza.PDFBase.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\obj\Debug\Ecotiza.PDFBase.pdb
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\DevExpress.Data.v15.2.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\DevExpress.Docs.v15.2.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\DevExpress.Snap.v15.2.Core.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\DevExpress.Spreadsheet.v15.2.Core.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\DevExpress.Office.v15.2.Core.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\DevExpress.DataAccess.v15.2.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\DevExpress.XtraCharts.v15.2.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\DevExpress.Charts.v15.2.Core.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\DevExpress.Xpo.v15.2.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\DevExpress.CodeParser.v15.2.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\DevExpress.Docs.v15.2.xml
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\DevExpress.Snap.v15.2.Core.xml
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\DevExpress.Spreadsheet.v15.2.Core.xml
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\DevExpress.Office.v15.2.Core.xml
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\DevExpress.DataAccess.v15.2.xml
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\DevExpress.XtraCharts.v15.2.xml
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\DevExpress.Xpo.v15.2.xml
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\de\DevExpress.Snap.v15.2.Core.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\es\DevExpress.Snap.v15.2.Core.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\ja\DevExpress.Snap.v15.2.Core.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\ru\DevExpress.Snap.v15.2.Core.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\de\DevExpress.Spreadsheet.v15.2.Core.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\es\DevExpress.Spreadsheet.v15.2.Core.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\ja\DevExpress.Spreadsheet.v15.2.Core.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\ru\DevExpress.Spreadsheet.v15.2.Core.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\de\DevExpress.DataAccess.v15.2.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\es\DevExpress.DataAccess.v15.2.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\ja\DevExpress.DataAccess.v15.2.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\ru\DevExpress.DataAccess.v15.2.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\de\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\es\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\ja\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\ru\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\de\DevExpress.Xpo.v15.2.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\es\DevExpress.Xpo.v15.2.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\ja\DevExpress.Xpo.v15.2.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\ru\DevExpress.Xpo.v15.2.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\Humanizer.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\Humanizer.xml
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\af\Humanizer.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\ar\Humanizer.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\bg\Humanizer.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\bn-BD\Humanizer.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\cs\Humanizer.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\da\Humanizer.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\de\Humanizer.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\el\Humanizer.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\es\Humanizer.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\fa\Humanizer.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\fi-FI\Humanizer.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\fr\Humanizer.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\fr-BE\Humanizer.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\he\Humanizer.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\hr\Humanizer.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\hu\Humanizer.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\id\Humanizer.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\it\Humanizer.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\ja\Humanizer.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\lv\Humanizer.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\ms-MY\Humanizer.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\mt\Humanizer.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\nb\Humanizer.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\nb-NO\Humanizer.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\nl\Humanizer.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\pl\Humanizer.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\pt\Humanizer.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\ro\Humanizer.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\ru\Humanizer.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\sk\Humanizer.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\sl\Humanizer.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\sr\Humanizer.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\sr-Latn\Humanizer.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\sv\Humanizer.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\tr\Humanizer.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\uk\Humanizer.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\uz-Latn-UZ\Humanizer.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\vi\Humanizer.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\zh-CN\Humanizer.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\zh-Hans\Humanizer.resources.dll
+C:\Home\TestPDF\Ecotiza.PDFBase\bin\Debug\zh-Hant\Humanizer.resources.dll
