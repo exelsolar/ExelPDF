@@ -8,6 +8,9 @@ using DevExpress.Pdf;
 using Ecotiza.PDFBase.Domain.PDF;
 using Ecotiza.PDFBase.Implements.SolicitudDCreditoImp;
 using Ecotiza.PDFBase.Domain.SolicitudDCredito;
+using Ecotiza.PDFBase.Domain.Enum;
+using Ecotiza.PDFBase.Domain.Presupuesto;
+using Ecotiza.PDFBase.Implements.PresupuestoImp;
 
 namespace Ecotiza.PDFBase.Implements.PDFImp
 {
@@ -25,7 +28,7 @@ namespace Ecotiza.PDFBase.Implements.PDFImp
 
         }
         //, DrawText waterMark, DrawText numberDowload, QR qr
-        public void AddGraphicJoin(PdfDocumentProcessor processor, SolicitudCreditoL4 SolicitudL4)
+        public void AddGraphicJoin(PdfDocumentProcessor processor, Object data,EPDFFile pdfFile)
         {
             IList<PdfPage> Pages = processor.Document.Pages;
             for (int i = 0; i < Pages.Count; i++)
@@ -34,8 +37,21 @@ namespace Ecotiza.PDFBase.Implements.PDFImp
                 using (PdfGraphics graphics = processor.CreateGraphics())
                 {
                     SizeF actualPageSize = PrepareGraphics.PrepareGraphicsSizeF(Page, graphics, DrawIngDpi, DrawIngDpi);
-
-                    SolicitudCreditoContent.NPageContent(graphics,i, actualPageSize.Width, actualPageSize.Height, SolicitudL4);
+                    switch(pdfFile)
+                    {
+                        case EPDFFile.SolicitudLinea4:
+                            SolicitudCreditoL4 SolicitudL4 = (SolicitudCreditoL4)data;
+                            SolicitudCreditoContent.NPageContent(graphics, i, actualPageSize.Width, actualPageSize.Height, SolicitudL4);
+                            break;
+                        case EPDFFile.Presupuesto:
+                            PresupuestoInfonavit Presupuesto = (PresupuestoInfonavit)data;
+                            PresupuestoInfonavitContent.NPageContent(graphics, i, actualPageSize.Width, actualPageSize.Height, Presupuesto);
+                            break;
+                        case EPDFFile.PresupuestoDesglose:
+                            PresupuestoDInfonavit PresupuestoDesglose = (PresupuestoDInfonavit)data;
+                            PresupuestoDInfonavitContent.NPageContent(graphics, i, actualPageSize.Width, actualPageSize.Height, PresupuestoDesglose);
+                            break;
+                    }
 
                     graphics.AddToPageForeground(Page, DrawIngDpi, DrawIngDpi);
 

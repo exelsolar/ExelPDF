@@ -7,6 +7,7 @@ using Ecotiza.PDFBase.Domain.PDF;
 using DevExpress.Pdf;
 using System.IO;
 using Ecotiza.PDFBase.Domain.SolicitudDCredito;
+using Ecotiza.PDFBase.Domain.Enum;
 
 namespace Ecotiza.PDFBase.Implements.PDFImp
 {
@@ -28,7 +29,7 @@ namespace Ecotiza.PDFBase.Implements.PDFImp
         /// <param name="waterMark">DrawText</param>
         /// <param name="mark">DrawText</param>
         /// <param name="qr">QR</param>, List<Stream> documentsPathsStream,string finalName, DrawText waterMark, DrawText mark, QR qr
-        public Stream PDFJoin(List<string> documentsPaths, string finalName, SolicitudCreditoL4 SolicitudL4)
+        public Stream PDFJoin(List<string> documentsPaths, string finalName, Object obj, EPDFFile ePdf)
         {
 
             PdfDocProcessor = new PdfDocumentProcessor();
@@ -57,7 +58,7 @@ namespace Ecotiza.PDFBase.Implements.PDFImp
             //Agregar marcas de agua, qr y Numero de descarga   , waterMark, mark, qr
 
             AddGrapic = new AddGraphics();
-            AddGrapic.AddGraphicJoin(PdfDocProcessor, SolicitudL4);
+            AddGrapic.AddGraphicJoin(PdfDocProcessor, obj, ePdf);
 
             if (!String.IsNullOrEmpty(finalName))
             {

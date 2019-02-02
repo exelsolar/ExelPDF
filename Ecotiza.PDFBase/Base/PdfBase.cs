@@ -5,6 +5,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Ecotiza.PDFBase.Domain.Enum;
 using Ecotiza.PDFBase.Domain.PDF;
 using Ecotiza.PDFBase.Domain.SolicitudDCredito;
 using Ecotiza.PDFBase.Implements.PDFImp;
@@ -24,21 +25,21 @@ namespace Ecotiza.PDFBase.Base
         public PdfBase()
         {
             _SolidBrush = new SolidBrush(Color.FromArgb(23, 0, 0));
-            _Font = new Font("Segoe UI", 40, FontStyle.Bold);
+            _Font = new Font("Arial", 40, FontStyle.Bold);
 
             PdfEdit = new PDFEdit();
             //ResolverPath();
         }
 
-        public void EditPDf(List<string>files,string nameEnd, SolicitudCreditoL4 _solicitud)
+        public void EditPDf(List<string>files,string nameEnd, Object obj,EPDFFile ePdf)
         {
-            PdfEdit.PDFJoin(files, nameEnd, _solicitud);
+            PdfEdit.PDFJoin(files, nameEnd, obj, ePdf);
         }
 
-        public Stream EditPDfStream(List<string> files, string nameEnd, SolicitudCreditoL4 _solicitud)
+        public Stream EditPDfStream(List<string> files, string nameEnd, Object obj, EPDFFile ePdf)
         {
 
-            return PdfEdit.PDFJoin(files, nameEnd, _solicitud);
+            return PdfEdit.PDFJoin(files, nameEnd, obj, ePdf);
         }
 
     }

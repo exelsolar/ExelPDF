@@ -91,6 +91,7 @@
     <Compile Include="Domain\Enum\EEstadoCivil.cs" />
     <Compile Include="Domain\Enum\EDatosDel.cs" />
     <Compile Include="Domain\Enum\ENivelEstudio.cs" />
+    <Compile Include="Domain\Enum\EPDFFile.cs" />
     <Compile Include="Domain\Enum\ERegimen.cs" />
     <Compile Include="Domain\Enum\EGenero.cs" />
     <Compile Include="Domain\Enum\EProducto.cs" />
@@ -98,12 +99,18 @@
     <Compile Include="Domain\PDF\Content.cs" />
     <Compile Include="Domain\PDF\DrawText.cs" />
     <Compile Include="Domain\PDF\QR.cs" />
+    <Compile Include="Domain\Presupuesto\PresupuestoDInfonavit.cs" />
+    <Compile Include="Domain\Presupuesto\PresupuestoInfonavit.cs" />
+    <Compile Include="Domain\Presupuesto\PresupuestoDInfonavitPointF.cs" />
+    <Compile Include="Domain\Presupuesto\PresupuestoInfonavitPointF.cs" />
     <Compile Include="Domain\SolicitudDCredito\SolicitudCreditoL4.cs" />
     <Compile Include="Domain\SolicitudDCredito\SolicitudCreditoPointF.cs" />
     <Compile Include="Implements\PDFImp\AddGraphics.cs" />
     <Compile Include="Implements\PDFImp\PDFEdit.cs" />
     <Compile Include="Implements\PDFImp\PrepareGraphics.cs" />
     <Compile Include="Implements\PDFImp\QrCreate.cs" />
+    <Compile Include="Implements\PresupuestoImp\PresupuestoDInfonavitContent.cs" />
+    <Compile Include="Implements\PresupuestoImp\PresupuestoInfonavitContent.cs" />
     <Compile Include="Implements\SolicitudDCreditoImp\SolicitudCreditoContent.cs" />
     <Compile Include="Infrastructure\Files\StreamFile.cs" />
     <Compile Include="Infrastructure\Humanizer\worlds.cs" />
