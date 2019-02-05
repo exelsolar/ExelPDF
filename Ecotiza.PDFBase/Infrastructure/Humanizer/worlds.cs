@@ -58,7 +58,7 @@ namespace Ecotiza.PDFBase.Infrastructure.Humanizer
         {
             string quantityStr = amount.ToWords();
                        
-            return quantityStr;
+            return quantityStr.ToUpper();
 
         }
     }

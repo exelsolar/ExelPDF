@@ -139,6 +139,11 @@ namespace Ecotiza.PDFBase.Implements.PresupuestoImp
                         _drawText.Default(_Presupuesto.CostoServicio16);
                         AddDraw(graphics, _drawText, _PointF.CostoServicio16);
                     }
+                    if (!String.IsNullOrEmpty(_Presupuesto.TotalT))
+                    {
+                        _drawText.Default(_Presupuesto.TotalT);
+                        AddDraw(graphics, _drawText, _PointF.Total);
+                    }
                     if (!String.IsNullOrEmpty(_Presupuesto.TotalTexto))
                     {
                         _drawText.Default(_Presupuesto.TotalTexto);
@@ -222,6 +227,7 @@ namespace Ecotiza.PDFBase.Implements.PresupuestoImp
                 _PointF.CostoOtros = new PointF(397, 551);
                 _PointF.SubTotal = new PointF(397, 568);
                 _PointF.CostoServicio16 = new PointF(397, 580);
+                _PointF.Total = new PointF(397, 592);
 
                 _PointF.TotalTexto = new PointF(186, 611);
                 _PointF.TotalCTexto = new PointF(458, 615);

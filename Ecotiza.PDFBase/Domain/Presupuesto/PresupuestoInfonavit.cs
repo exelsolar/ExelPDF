@@ -54,10 +54,19 @@ namespace Ecotiza.PDFBase.Domain.Presupuesto
             {
                 string[] array = value.ToString("n2").Split('.');
                 int totalInt = Convert.ToInt32(array[0].ToString().Replace(",", ""));
+                total = value.ToString("n2");
                 totalTexto = worlds.numbertoWords(totalInt);
                 totalCTexto = array[1];
             }
         }
+        public string TotalT
+        {
+            get
+            {
+                return this.total;
+            }
+        }
+
         public string TotalTexto
         {
             get
